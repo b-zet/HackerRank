@@ -1,5 +1,5 @@
 // https://www.hackerrank.com/challenges/cpp-hello-world/problem
-// xxx
+
 #include <iostream>
 #include <cstdio>
 using namespace std;
