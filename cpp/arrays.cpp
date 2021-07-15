@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/challenges/arrays-introduction/problem
+// https://www.hackerrank.com/challenges/arrays-introduction/problem
 
 #include <cmath>
 #include <cstdio>
