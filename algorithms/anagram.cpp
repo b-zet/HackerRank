@@ -1,5 +1,6 @@
 // https://www.hackerrank.com/challenges/anagram/problem
 
+
 // solution code
 int anagram(string s) {
     int c1,c2,result{0};
